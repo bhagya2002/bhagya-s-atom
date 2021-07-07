@@ -15,6 +15,9 @@
     "bhagya's atom",
     "dark theme"
   ],
+  "engines": {
+    "vscode": "^1.8.0"
+  },
   "type": "dark",
   "colors": {
     "activityBar.background": "#1d1f24",
