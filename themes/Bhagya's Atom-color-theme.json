@@ -8,6 +8,13 @@
     "type": "git",
     "url": "https://github.com/bhagya2002/bhagya-s-atom"
   },
+  "keywords": [
+    "theme",
+    "bhagya",
+    "bhagya's atom dark",
+    "bhagya's atom",
+    "dark theme"
+  ],
   "type": "dark",
   "colors": {
     "activityBar.background": "#1d1f24",
