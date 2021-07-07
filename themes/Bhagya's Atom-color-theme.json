@@ -3,7 +3,7 @@
   "displayName": "Bhagya's Atom Dark",
   "description": "This is personalized to Bhagya's Dark Mode liking!",
   "version": "1.0.0",
-  "publiser": "bhagyasatom",
+  "publisher": "BhagyaAtomDarkTheme",
   "repository": {
     "type": "git",
     "url": "https://github.com/bhagya2002/bhagya-s-atom"
