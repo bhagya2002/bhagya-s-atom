@@ -3,6 +3,7 @@
   "displayName": "Bhagya's Atom Dark",
   "description": "This is personalized to Bhagya's Dark Mode liking!",
   "version": "0.0.1",
+  "icon": "theme-image.jpeg",
   "engines": {
     "vscode": "^1.57.0"
   },
