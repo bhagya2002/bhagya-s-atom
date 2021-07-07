@@ -1,23 +1,5 @@
 {
-  "name": "bhagya-s-atom",
-  "displayName": "Bhagya's Atom Dark",
-  "description": "This is personalized to Bhagya's Dark Mode liking!",
-  "version": "1.0.0",
-  "publisher": "BhagyaAtomDarkTheme",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/bhagya2002/bhagya-s-atom"
-  },
-  "keywords": [
-    "theme",
-    "bhagya",
-    "bhagya's atom dark",
-    "bhagya's atom",
-    "dark theme"
-  ],
-  "engines": {
-    "vscode": "^1.8.0"
-  },
+  "name": "Bhagya's Atom Dark",
   "type": "dark",
   "colors": {
     "activityBar.background": "#1d1f24",

@@ -2,7 +2,7 @@
 
 ## This is the README for your extension "bhagya-s-atom"
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+You can find my theme on VS Code by searching up Bhagya's Atom Dark.
 
 ### For more information
 
