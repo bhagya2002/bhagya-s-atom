@@ -1,21 +1,33 @@
 {
-    "name": "bhagya-s-atom",
-    "displayName": "Bhagya's Atom",
-    "description": "Bhagya's Dark Atom Theme",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.57.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Bhagya's Atom",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Bhagya's Atom-color-theme.json"
-            }
-        ]
-    }
+  "name": "bhagya-s-atom",
+  "displayName": "Bhagya's Atom Dark",
+  "description": "This is personalized to Bhagya's Dark Mode liking!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.57.0"
+  },
+  "publisher": "BhagyaAtomDarkTheme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bhagya2002/bhagya-s-atom"
+  },
+  "keywords": [
+    "theme",
+    "bhagya",
+    "bhagya's atom dark",
+    "bhagya's atom",
+    "dark theme"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Bhagya's Atom",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Bhagya's Atom-color-theme.json"
+      }
+    ]
+  }
 }
