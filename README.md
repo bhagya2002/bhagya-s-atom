@@ -1,10 +1,8 @@
-# README
-
-## This is the README for your extension "bhagya-s-atom"
+## This if my theme personalized to me!
 
 You can find my theme on VS Code by searching up Bhagya's Atom Dark.
 
-### For more information
+### Other
 
 Will be maintaining this as I have time, thanks for your understanding! 🙏🏽
 
