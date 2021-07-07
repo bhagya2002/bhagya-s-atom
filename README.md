@@ -6,7 +6,6 @@ You can find my theme on VS Code by searching up Bhagya's Atom Dark.
 
 ### For more information
 
-- [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-- [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Will be maintaining this as I have time, thanks for your understanding! 🙏🏽
 
 **Hope you Enjoy!**

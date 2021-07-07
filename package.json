@@ -24,7 +24,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Bhagya's Atom",
+        "label": "Bhagya's Atom Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/Bhagya's Atom-color-theme.json"
       }
